@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OctoKitSample/1.0.0": {
+        "dependencies": {
+          "Octokit": "7.1.0",
+          "Octokit.Reactive": "7.1.0"
+        },
+        "runtime": {
+          "OctoKitSample.dll": {}
+        }
+      },
+      "Octokit/7.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Octokit.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.1.0.0"
+          }
+        }
+      },
+      "Octokit.Reactive/7.1.0": {
+        "dependencies": {
+          "Octokit": "7.1.0",
+          "System.Reactive": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Octokit.Reactive.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.1.0.0"
+          }
+        }
+      },
+      "System.Reactive/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Reactive.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OctoKitSample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Octokit/7.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v2qhKBe1Zlssa4XOmpOXNDFBrOAMw2tBmr8L8YMSrEi+PlF/L/PboZcXHSkZuhIxIeOGxEFiwkuJLkvG4aHNHQ==",
+      "path": "octokit/7.1.0",
+      "hashPath": "octokit.7.1.0.nupkg.sha512"
+    },
+    "Octokit.Reactive/7.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LC4n9Jhjby+X6J/UtnhsnqwO23IInHxW7oB2AC06eNxI7d0W6eMPeJhOTNqz1/PNbLJdglUmIWJhePGw3XLSwQ==",
+      "path": "octokit.reactive/7.1.0",
+      "hashPath": "octokit.reactive.7.1.0.nupkg.sha512"
+    },
+    "System.Reactive/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-31kfaW4ZupZzPsI5PVe77VhnvFF55qgma7KZr/E0iFTs6fmdhhG8j0mgEx620iLTey1EynOkEfnyTjtNEpJzGw==",
+      "path": "system.reactive/6.0.0",
+      "hashPath": "system.reactive.6.0.0.nupkg.sha512"
+    }
+  }
+}

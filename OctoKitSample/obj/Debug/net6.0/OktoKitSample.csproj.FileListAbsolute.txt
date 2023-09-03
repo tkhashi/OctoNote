@@ -1,0 +1,15 @@
+C:\Users\k_tak\work\OktoKitSample\bin\Debug\net6.0\OktoKitSample.exe
+C:\Users\k_tak\work\OktoKitSample\bin\Debug\net6.0\OktoKitSample.deps.json
+C:\Users\k_tak\work\OktoKitSample\bin\Debug\net6.0\OktoKitSample.runtimeconfig.json
+C:\Users\k_tak\work\OktoKitSample\bin\Debug\net6.0\OktoKitSample.dll
+C:\Users\k_tak\work\OktoKitSample\bin\Debug\net6.0\OktoKitSample.pdb
+C:\Users\k_tak\work\OktoKitSample\obj\Debug\net6.0\OktoKitSample.csproj.AssemblyReference.cache
+C:\Users\k_tak\work\OktoKitSample\obj\Debug\net6.0\OktoKitSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k_tak\work\OktoKitSample\obj\Debug\net6.0\OktoKitSample.AssemblyInfoInputs.cache
+C:\Users\k_tak\work\OktoKitSample\obj\Debug\net6.0\OktoKitSample.AssemblyInfo.cs
+C:\Users\k_tak\work\OktoKitSample\obj\Debug\net6.0\OktoKitSample.csproj.CoreCompileInputs.cache
+C:\Users\k_tak\work\OktoKitSample\obj\Debug\net6.0\OktoKitSample.dll
+C:\Users\k_tak\work\OktoKitSample\obj\Debug\net6.0\refint\OktoKitSample.dll
+C:\Users\k_tak\work\OktoKitSample\obj\Debug\net6.0\OktoKitSample.pdb
+C:\Users\k_tak\work\OktoKitSample\obj\Debug\net6.0\OktoKitSample.genruntimeconfig.cache
+C:\Users\k_tak\work\OktoKitSample\obj\Debug\net6.0\ref\OktoKitSample.dll
