@@ -121,11 +121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k_tak\\work\\OctoKitSample\\OctoKitSample.csproj",
+      "projectUniqueName": "C:\\Users\\k_tak\\work\\OctoNote\\OctoKitSample\\OctoKitSample.csproj",
       "projectName": "OctoKitSample",
-      "projectPath": "C:\\Users\\k_tak\\work\\OctoKitSample\\OctoKitSample.csproj",
+      "projectPath": "C:\\Users\\k_tak\\work\\OctoNote\\OctoKitSample\\OctoKitSample.csproj",
       "packagesPath": "C:\\Users\\k_tak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k_tak\\work\\OctoKitSample\\obj\\",
+      "outputPath": "C:\\Users\\k_tak\\work\\OctoNote\\OctoKitSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
